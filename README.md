@@ -2,7 +2,7 @@
 
 These are a few mini projects I did during my #100daysofcode, done with HTML, CSS & Javascript.
 
-I believe that the best way to learn is to practice and teach others, soI set out to build small projects, while taking Udemy classes. 
+I believe that the best way to learn is to practice and teach others, so I set out to build small projects. 
 
 ## Projects included
 
